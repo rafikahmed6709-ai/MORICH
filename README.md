@@ -1,2 +1,2 @@
 # MORICH
-This is y first Git Repository.
+This is my first Git Repository.
